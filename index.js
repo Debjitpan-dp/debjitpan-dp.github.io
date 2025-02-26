@@ -39,7 +39,7 @@ var vite_config_default = defineConfig({
     // ✅ Fix: Move build output to "dist" directly
     emptyOutDir: true
   },
-  base: "/Debjitpan-dp.github.io/"
+  base: "/"
   // ✅ Fix: Required for GitHub Pages (Replace with your repo name)
 });
 
